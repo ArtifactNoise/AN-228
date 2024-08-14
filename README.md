@@ -10,6 +10,7 @@ Type-Cで接続できるため非常にお手軽です。
         
 電圧レベルはTTL 3.3Vです。
 
+**ピンは全て実装済みです**
 
 ※ドライバーが別途必要になります。　最新のドライバーは公式サイト　https://www.wch.cn/products/CH340.html?from=list
 より
@@ -43,7 +44,7 @@ Type-Cで接続できるため非常にお手軽です。
 
 # 販売サイト
 
-- Amazon JP
+- Amazon JP (ピン未実装、半田が必要なモデル）
 
    https://amzn.asia/d/dPPRC6k
 
